@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DojoScraper": {
+      "commandName": "Project",
+      "commandLineArgs": "download-images --before=1-03-2020"
+    }
+  }
+}
